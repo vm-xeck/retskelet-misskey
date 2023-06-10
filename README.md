@@ -1,2 +1,2 @@
-# retskelet-misskey
-Retskelet' theme for Misskey
+# Retskelet' por Misskey
+de norisense2
